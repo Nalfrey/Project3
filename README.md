@@ -1,10 +1,12 @@
 PROJECT 3 TITLE
+Top Spotify Streams in 2023 
+
 This file is just a template that you can use for your project proposal and your README.md. Not every section is needed for your proposal and not every section is needed for the final README.md for submission. I recommend having TWO SEPARATE files, one for your project proposal and one for the README.md for the final GitHub submission.
 
 Topic
 Project proposal and submission: A brief description of the topic that you chose.
 Project submission only: any background that is relevant
-
+The topic we picked was the most popular songs in 2023 on Spotify. 
 Dataset
 Project proposal and submission: Dataset source, link, and high level description. A screenshot of the metadata (if it exists).
 Project submission only: Links to documentation/code for the new package/library you found.
