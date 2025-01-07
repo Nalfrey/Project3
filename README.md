@@ -2,6 +2,8 @@ Our overall project is housed in a Jupyter Notebook (JN) and runs as a normal JN
 
 For the Jupyter Notebook:
 
+*Note - To run the SQL you will have to download and make a local connection to the csv data to read into SQL and run the Jupyter Notebook
+
 For the first visualization we showed the top 10 songs that were streamed for 2023, you must import plotly express, reset the indices, and then create the bar chart with the hover functionality. 
 
 For the second visualization we looked at the streams by song released year, we grouped the data by the year the song was released(released_year) and then by the number of streams(streams). We made sure that the graph was more easily readable by showing only songs that were released after the year 2000. 
